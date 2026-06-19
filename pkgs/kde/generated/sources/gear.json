@@ -491,8 +491,8 @@
   },
   "keysmith": {
     "version": "25.12.1",
-    "url": "mirror://kde/stable/release-service/25.12.1/src/keysmith-25.12.1.tar.xz",
-    "hash": "sha256-m0iYeDOYRtGnzdnXs03aT9iJJHjI02qSZ9y7fWjayBQ="
+    "url": "https://invent.kde.org/utilities/keysmith/-/archive/master/keysmith-master.tar.gz",
+    "hash": "sha256-xCHSmB10ybN5WzQR2XVKYUJN4WgzJZuP3FJK3ZoNTjs="
   },
   "kfind": {
     "version": "25.12.1",
